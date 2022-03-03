@@ -1,0 +1,4 @@
+O q é um repositório?
+Qual a diferença entre git e git hub?
+PQ utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software?
+Quais vantagens vc enxerga no git?Vc utilizaria em seu projeto?
