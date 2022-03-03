@@ -1,0 +1,4 @@
+1-Um repositório é um lugar onde os desenvolvedores conseguem guardar as mudanças que fizeram em sua progracão.
+2-Git HUb é a parte da rede social e o GIT é a parte do código
+3-PQ daí conseguimos fazer um trabalho em equipe de diferentes espaços
+4-Os seus repositórios.Usaria
